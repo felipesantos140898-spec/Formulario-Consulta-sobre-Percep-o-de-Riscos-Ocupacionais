@@ -1,0 +1,6 @@
+{
+  "name": "SONDA - Consulta de Riscos Ocupacionais",
+  "description": "Formulário interativo estilo Typeform para a consulta trimestral sobre percepção de riscos ocupacionais da SONDA com navegação fluida, transições suaves e design moderno azul e branco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
